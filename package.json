@@ -63,7 +63,7 @@
     "extends": "react-app"
   },
   "engines": {
-    "node": "16.15.0"
+    "node": "16.x"
   },
   "devDependencies": {
     "@babel/core": "7.11.6",
